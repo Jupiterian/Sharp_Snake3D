@@ -1,0 +1,80 @@
+D:\TochilinaAnna\TochilinaAnna\bin\Debug\TochilinaAnna.exe.config
+D:\TochilinaAnna\TochilinaAnna\bin\Debug\TochilinaAnna.exe
+D:\TochilinaAnna\TochilinaAnna\bin\Debug\TochilinaAnna.pdb
+D:\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.FreeGlut.dll
+D:\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.OpenGl.dll
+D:\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.Platform.Windows.dll
+D:\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.FreeGlut.xml
+D:\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.OpenGl.xml
+D:\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.Platform.Windows.xml
+D:\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.csprojResolveAssemblyReference.cache
+D:\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.Form1.resources
+D:\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.Properties.Resources.resources
+D:\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.csproj.GenerateResource.Cache
+D:\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.exe
+D:\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.pdb
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\bin\Debug\TochilinaAnna.exe.config
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.exe
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.pdb
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\bin\Debug\TochilinaAnna.exe
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\bin\Debug\TochilinaAnna.pdb
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.FreeGlut.dll
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.OpenGl.dll
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.Platform.Windows.dll
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.FreeGlut.xml
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.OpenGl.xml
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.Platform.Windows.xml
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.csprojResolveAssemblyReference.cache
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.Form1.resources
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.Properties.Resources.resources
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.csproj.GenerateResource.Cache
+D:\КУРСОВАЯ\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.DiagramForm.resources
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\bin\Debug\TochilinaAnna.exe.config
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\bin\Debug\TochilinaAnna.exe
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\bin\Debug\TochilinaAnna.pdb
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.FreeGlut.xml
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.OpenGl.xml
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.Platform.Windows.xml
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.csprojResolveAssemblyReference.cache
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.DiagramForm.resources
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.Form1.resources
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.Properties.Resources.resources
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.csproj.GenerateResource.Cache
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.exe
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.pdb
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.Grid.resources
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.UserData.resources
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\bin\Debug\Interop.ActiveXGradientButtonLib.dll
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\bin\Debug\AxInterop.ActiveXGradientButtonLib.dll
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\obj\Debug\Interop.ActiveXGradientButtonLib.dll
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\obj\Debug\AxInterop.ActiveXGradientButtonLib.dll
+D:\Documents\4 курс ПЗАС-13-1\С#\Курсовая\Проект\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.csproj.ResolveComReference.cache
+D:\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.csprojResolveAssemblyReference.cache
+D:\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.csproj.ResolveComReference.cache
+D:\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.DiagramForm.resources
+D:\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.Form1.resources
+D:\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.Grid.resources
+D:\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.Properties.Resources.resources
+D:\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.UserData.resources
+D:\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.csproj.GenerateResource.Cache
+D:\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.exe
+D:\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.pdb
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.csprojResolveAssemblyReference.cache
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.csproj.ResolveComReference.cache
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.DiagramForm.resources
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.Form1.resources
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.Grid.resources
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.Properties.Resources.resources
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.UserData.resources
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.csproj.GenerateResource.Cache
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.exe
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\obj\Debug\TochilinaAnna.pdb
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\bin\Debug\TochilinaAnna.exe.config
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\bin\Debug\TochilinaAnna.exe
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\bin\Debug\TochilinaAnna.pdb
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.FreeGlut.xml
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.OpenGl.xml
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.Platform.Windows.xml
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.FreeGlut.dll
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.OpenGl.dll
+D:\Add to repo\Проекты С#\TochilinaAnna\TochilinaAnna\bin\Debug\Tao.Platform.Windows.dll

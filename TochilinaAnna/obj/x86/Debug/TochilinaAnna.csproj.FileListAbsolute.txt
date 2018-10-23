@@ -1,0 +1,14 @@
+D:\TochilinaAnna\TochilinaAnna\bin\x86\Debug\TochilinaAnna.exe.config
+D:\TochilinaAnna\TochilinaAnna\bin\x86\Debug\TochilinaAnna.exe
+D:\TochilinaAnna\TochilinaAnna\bin\x86\Debug\TochilinaAnna.pdb
+D:\TochilinaAnna\TochilinaAnna\bin\x86\Debug\Tao.FreeGlut.dll
+D:\TochilinaAnna\TochilinaAnna\bin\x86\Debug\Tao.OpenGl.dll
+D:\TochilinaAnna\TochilinaAnna\bin\x86\Debug\Tao.Platform.Windows.dll
+D:\TochilinaAnna\TochilinaAnna\bin\x86\Debug\Tao.FreeGlut.xml
+D:\TochilinaAnna\TochilinaAnna\bin\x86\Debug\Tao.OpenGl.xml
+D:\TochilinaAnna\TochilinaAnna\bin\x86\Debug\Tao.Platform.Windows.xml
+D:\TochilinaAnna\TochilinaAnna\obj\x86\Debug\TochilinaAnna.Form1.resources
+D:\TochilinaAnna\TochilinaAnna\obj\x86\Debug\TochilinaAnna.Properties.Resources.resources
+D:\TochilinaAnna\TochilinaAnna\obj\x86\Debug\TochilinaAnna.csproj.GenerateResource.Cache
+D:\TochilinaAnna\TochilinaAnna\obj\x86\Debug\TochilinaAnna.exe
+D:\TochilinaAnna\TochilinaAnna\obj\x86\Debug\TochilinaAnna.pdb
